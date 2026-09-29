@@ -32,31 +32,25 @@ Git and GitHub
 
 #Repository Structure
 
-HIV-Awareness/
-│
-├── .github/                        
-│
-├── .vscode/
-│   └── settings.json
-│
-├── data/
-│   └── health_data_11_09_2026 (1).csv
-│
-├── notebook/
-│   └── hiv_awareness.ipynb
-│
-├── src/
-│   ├── __init__.py
-│   └── data_processing.py
-│
-├── test/
-│   └── test_data_processing.py
-│
-├── hiv_awareness.pdf
-│
-├── .gitignore
-├── README.md
-└── requirements.txt
+Create project
+     ↓
+Create .venv
+     ↓
+Create .gitignore
+     ↓
+Create README.md
+     ↓
+Create requirements.txt
+     ↓
+Create data/notebook/src/test folders
+     ↓
+git add .
+     ↓
+git commit
+     ↓
+git push
+     ↓
+GitHub
 
 #Running the project
 
