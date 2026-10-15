@@ -1,0 +1,8 @@
+pandas
+numpy
+scipy
+statistics
+pytest
+hypothesis
+unittest
+sys
